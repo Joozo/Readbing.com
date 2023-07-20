@@ -94,7 +94,7 @@ transition:background-color 0.3s linear,border-color 0.3s linear;
 
 .chaolin-hover0 .navbar-nav>li>a{ color:#333;}
 
-.logn-bj{ background:url(upload/images/2019/3/12183813759.png) no-repeat;-webkit-background-size: auto 100%;
+.logn-bj{ background:url(/upload/images/2019/3/12183813759.png) no-repeat;-webkit-background-size: auto 100%;
 background-size:auto 100%; min-height: 47px; width:200px; margin-top:0px;}
 
 
